@@ -1,0 +1,4 @@
+[
+  { "Date": "2024-01-01", "Product": "Laptop", "Category": "Electronics", "Units Sold": 5, "Unit Price": 1000, "Total Revenue": 5000 },
+  { "Date": "2024-01-02", "Product": "Smartphone", "Category": "Electronics", "Units Sold": 10, "Unit Price": 700, "Total Revenue": 7000 }
+]

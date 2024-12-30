@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "Alice",
+    "Details": {
+      "Age": 25,
+      "Address": {
+        "City": "New York",
+        "ZIP": 10001
+      },
+      "Hobbies": ["Reading", "Cycling"]
+    }
+  },
+  {
+    "Name": "Bob",
+    "Details": {
+      "Age": 30,
+      "Address": {
+        "City": "San Francisco",
+        "ZIP": 94105
+      },
+      "Hobbies": ["Gaming", "Traveling"]
+    }
+  }
+]
